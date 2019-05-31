@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "This is configuration script"
-echo "Created by Dr. Priyatosh Mandal"
+echo "Created by Priyatosh Mandal"
